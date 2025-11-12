@@ -311,24 +311,6 @@
 					)
 				)
 			)
-			(pin output line
-				(at -2.54 2.54 0)
-				(length 2.54)
-				(name "RY/BY#"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "7"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
 			(pin power_in line
 				(at 20.32 45.72 180)
 				(length 2.54)
@@ -394,6 +376,26 @@
 					)
 				)
 				(number "36"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+		)
+		(symbol "TC58BVG0S3HTA00_1_0"
+			(pin open_collector line
+				(at -2.54 2.54 0)
+				(length 2.54)
+				(name "RY/BY#"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "7"
 					(effects
 						(font
 							(size 1.27 1.27)
