@@ -8796,7 +8796,7 @@
 		)
 		(uuid "edfbf806-a232-4f0b-8703-fe1e7bf24d7b")
 	)
-	(label "CE0#"
+	(label "CE1#"
 		(at 30.48 154.94 0)
 		(effects
 			(font
