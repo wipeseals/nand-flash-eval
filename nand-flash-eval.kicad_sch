@@ -2848,6 +2848,89 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "Mechanical:MountingHole"
+			(pin_names
+				(offset 1.016)
+			)
+			(exclude_from_sim no)
+			(in_bom no)
+			(on_board yes)
+			(property "Reference" "H"
+				(at 0 5.08 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "MountingHole"
+				(at 0 3.175 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "~"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Mounting Hole without connection"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "mounting hole"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "MountingHole*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "MountingHole_0_1"
+				(circle
+					(center 0 0)
+					(radius 1.27)
+					(stroke
+						(width 1.27)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "nand-flash-eval:TC58BVG0S3HTA00"
 			(exclude_from_sim no)
 			(in_bom yes)
@@ -3242,6 +3325,557 @@
 						)
 					)
 					(number "7"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin no_connect line
+					(at 46.99 73.66 0)
+					(length 2.54)
+					(hide yes)
+					(name "NC"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "48"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin no_connect line
+					(at 46.99 71.12 0)
+					(length 2.54)
+					(hide yes)
+					(name "NC"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "47"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin no_connect line
+					(at 46.99 68.58 0)
+					(length 2.54)
+					(hide yes)
+					(name "NC"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "46"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin no_connect line
+					(at 46.99 66.04 0)
+					(length 2.54)
+					(hide yes)
+					(name "NC"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "45"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin no_connect line
+					(at 46.99 63.5 0)
+					(length 2.54)
+					(hide yes)
+					(name "NC"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "40"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin no_connect line
+					(at 46.99 60.96 0)
+					(length 2.54)
+					(hide yes)
+					(name "NC"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "39"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin no_connect line
+					(at 46.99 58.42 0)
+					(length 2.54)
+					(hide yes)
+					(name "NC"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "38"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin no_connect line
+					(at 46.99 55.88 0)
+					(length 2.54)
+					(hide yes)
+					(name "NC"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "35"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin no_connect line
+					(at 46.99 53.34 0)
+					(length 2.54)
+					(hide yes)
+					(name "NC"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "34"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin no_connect line
+					(at 46.99 50.8 0)
+					(length 2.54)
+					(hide yes)
+					(name "NC"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "33"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin no_connect line
+					(at 46.99 48.26 0)
+					(length 2.54)
+					(hide yes)
+					(name "NC"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "28"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin no_connect line
+					(at 46.99 45.72 0)
+					(length 2.54)
+					(hide yes)
+					(name "NC"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "27"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin no_connect line
+					(at 46.99 43.18 0)
+					(length 2.54)
+					(hide yes)
+					(name "NC"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "26"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin no_connect line
+					(at 46.99 40.64 0)
+					(length 2.54)
+					(hide yes)
+					(name "NC"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "25"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin no_connect line
+					(at 46.99 38.1 0)
+					(length 2.54)
+					(hide yes)
+					(name "NC"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "24"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin no_connect line
+					(at 46.99 35.56 0)
+					(length 2.54)
+					(hide yes)
+					(name "NC"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "23"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin no_connect line
+					(at 46.99 33.02 0)
+					(length 2.54)
+					(hide yes)
+					(name "NC"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "22"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin no_connect line
+					(at 46.99 30.48 0)
+					(length 2.54)
+					(hide yes)
+					(name "NC"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "21"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin no_connect line
+					(at 46.99 27.94 0)
+					(length 2.54)
+					(hide yes)
+					(name "NC"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "20"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin no_connect line
+					(at 46.99 25.4 0)
+					(length 2.54)
+					(hide yes)
+					(name "NC"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "15"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin no_connect line
+					(at 46.99 22.86 0)
+					(length 2.54)
+					(hide yes)
+					(name "NC"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "14"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin no_connect line
+					(at 46.99 20.32 0)
+					(length 2.54)
+					(hide yes)
+					(name "NC"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "11"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin no_connect line
+					(at 46.99 17.78 0)
+					(length 2.54)
+					(hide yes)
+					(name "NC"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "10"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin no_connect line
+					(at 46.99 15.24 0)
+					(length 2.54)
+					(hide yes)
+					(name "NC"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "6"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin no_connect line
+					(at 46.99 12.7 0)
+					(length 2.54)
+					(hide yes)
+					(name "NC"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "5"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin no_connect line
+					(at 46.99 10.16 0)
+					(length 2.54)
+					(hide yes)
+					(name "NC"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin no_connect line
+					(at 46.99 7.62 0)
+					(length 2.54)
+					(hide yes)
+					(name "NC"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin no_connect line
+					(at 46.99 5.08 0)
+					(length 2.54)
+					(hide yes)
+					(name "NC"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin no_connect line
+					(at 46.99 2.54 0)
+					(length 2.54)
+					(hide yes)
+					(name "NC"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -8903,6 +9537,71 @@
 		)
 	)
 	(symbol
+		(lib_id "Mechanical:MountingHole")
+		(at 265.43 148.59 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "04408274-5e41-4b0f-9a4e-27eb30e29202")
+		(property "Reference" "H4"
+			(at 267.97 147.3199 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "MountingHole"
+			(at 267.97 149.8599 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3_ISO7380"
+			(at 265.43 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 265.43 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Mounting Hole without connection"
+			(at 265.43 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "nand-flash-eval"
+				(path "/8b7b9457-2a92-4e87-8d6b-6a422e047b1a"
+					(reference "H4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:+3V3")
 		(at 40.64 31.75 0)
 		(unit 1)
@@ -8996,7 +9695,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 40.64 96.52 0)
 			(effects
 				(font
@@ -9415,6 +10114,93 @@
 		)
 		(pin "13"
 			(uuid "706eb9e2-8ade-4c72-8628-bf66da36eb83")
+		)
+		(pin "47"
+			(uuid "b7d90cbf-94b9-4b8a-a433-498aba476349")
+		)
+		(pin "48"
+			(uuid "f7e8ea5c-3e49-4eda-a596-9ee6d107a482")
+		)
+		(pin "33"
+			(uuid "5f8a4fba-0ac3-4a70-b7d5-7e618c3c592a")
+		)
+		(pin "23"
+			(uuid "d7c7d35d-b1b1-49bf-bd2a-329135464795")
+		)
+		(pin "28"
+			(uuid "e2eeca40-6f7f-4f51-8c95-f96e099d771d")
+		)
+		(pin "5"
+			(uuid "5d78d0b3-c04a-4a71-98e9-b87b534fe164")
+		)
+		(pin "2"
+			(uuid "177bd49e-0605-42b6-9565-de86f04a7f69")
+		)
+		(pin "45"
+			(uuid "705420de-f891-440b-8946-102100e68914")
+		)
+		(pin "21"
+			(uuid "ee931bf5-427e-4e02-8b46-ab88024abdc8")
+		)
+		(pin "6"
+			(uuid "27801a97-6db0-4799-8b1e-5e9352bb109e")
+		)
+		(pin "10"
+			(uuid "433902fa-30f0-45e9-87c3-d2474af450a7")
+		)
+		(pin "40"
+			(uuid "f2890163-7fec-4f66-8b32-87f0104ee524")
+		)
+		(pin "27"
+			(uuid "1df7b98a-48d1-4839-8e98-ed547f5ddf81")
+		)
+		(pin "39"
+			(uuid "cd77233d-84ef-439f-a20e-1ba0275c10c6")
+		)
+		(pin "11"
+			(uuid "bde4117a-1286-4277-9ec4-12115e73344a")
+		)
+		(pin "4"
+			(uuid "528a283b-b1a1-44c4-a76e-d9828b84e708")
+		)
+		(pin "35"
+			(uuid "2990f642-d042-4da7-b8c9-8c87790ff35c")
+		)
+		(pin "14"
+			(uuid "35f80c12-b31d-446a-ae58-0a396153a2f1")
+		)
+		(pin "22"
+			(uuid "59f2b1e3-04cf-43c5-b0ff-d8506b1f44fe")
+		)
+		(pin "38"
+			(uuid "c10ab530-6fae-4813-8a79-41ef05b9bd34")
+		)
+		(pin "26"
+			(uuid "b20447c5-d111-4545-9c79-4cb8bc414347")
+		)
+		(pin "46"
+			(uuid "ade77cdd-a62f-4f0c-8719-844cf40c551e")
+		)
+		(pin "34"
+			(uuid "76a799a4-29d8-457f-ad53-512a815614f9")
+		)
+		(pin "25"
+			(uuid "6165f03f-f04e-46fd-8656-e44acdcf8b20")
+		)
+		(pin "24"
+			(uuid "ce2ff999-fd06-469c-8a18-6786575e1fa0")
+		)
+		(pin "20"
+			(uuid "09fb91c3-a9df-48d2-b12b-22c979037ec2")
+		)
+		(pin "15"
+			(uuid "d7bc4288-bde1-4d1e-ab94-1b9b0677fa8f")
+		)
+		(pin "3"
+			(uuid "9f22fbd9-f96d-4844-93d8-861bcb179afb")
+		)
+		(pin "1"
+			(uuid "8ea66bb5-1abc-4fc4-9a14-859deaae601d")
 		)
 		(instances
 			(project "nand-flash-eval"
@@ -9940,6 +10726,93 @@
 		(pin "13"
 			(uuid "28d530da-19f4-46e2-93e4-859e75a50bf3")
 		)
+		(pin "48"
+			(uuid "46ccd523-b885-4035-bb18-8d24c4416ff0")
+		)
+		(pin "26"
+			(uuid "d23ca864-b473-4ec4-be93-bfb321b83742")
+		)
+		(pin "24"
+			(uuid "8accbae4-c2d9-426f-8577-3d23440aec11")
+		)
+		(pin "21"
+			(uuid "ad7bad6e-f8e0-4be7-843b-08aa58b12b92")
+		)
+		(pin "11"
+			(uuid "806c7304-2785-4d37-913e-4d1c46b34258")
+		)
+		(pin "35"
+			(uuid "77277c4e-c5ab-4500-8535-a98906053412")
+		)
+		(pin "5"
+			(uuid "f479725a-2253-494f-a613-2d686538998a")
+		)
+		(pin "15"
+			(uuid "3401a63a-68e6-49d4-b73f-f8a50048cf2f")
+		)
+		(pin "46"
+			(uuid "612f0956-4d2c-4a13-b4ae-4f0d1ec95e64")
+		)
+		(pin "47"
+			(uuid "1bf7b694-c2a0-49b8-b870-5839e7e76f70")
+		)
+		(pin "33"
+			(uuid "c0e2218e-c490-412d-9efa-47997e5ed442")
+		)
+		(pin "28"
+			(uuid "2343abd6-3a82-4cec-be40-23d9295ab0b9")
+		)
+		(pin "27"
+			(uuid "c336c7fa-ae68-4f50-a957-d8b72f7f8fc5")
+		)
+		(pin "23"
+			(uuid "c9417ad8-2077-4381-ade6-5e11df0e86b6")
+		)
+		(pin "14"
+			(uuid "de61b6a7-f1ac-4412-9265-f818e8a4ca72")
+		)
+		(pin "45"
+			(uuid "39ac9b3e-9d9c-42b2-a933-5d4c3c9eb6f9")
+		)
+		(pin "40"
+			(uuid "e8789c06-b406-4c1f-9c28-89ae48d33b4a")
+		)
+		(pin "39"
+			(uuid "5c6f948f-7e11-4a04-aeca-73ea9e9fff7f")
+		)
+		(pin "38"
+			(uuid "40a8987c-548a-45e0-b48e-0153c1571169")
+		)
+		(pin "34"
+			(uuid "0ca98dbe-b9a5-41d8-9cc8-c324adb92081")
+		)
+		(pin "25"
+			(uuid "9b7d21ea-bb3d-4432-afa1-de141577bc48")
+		)
+		(pin "22"
+			(uuid "16e8f6b6-35c4-4085-888a-7fc4ddf2deaa")
+		)
+		(pin "20"
+			(uuid "058e549b-5b58-42d4-a65c-0eb60e0b7d8c")
+		)
+		(pin "10"
+			(uuid "9bf628b5-beaa-4ff4-9bde-f0a10d2985ba")
+		)
+		(pin "6"
+			(uuid "310b3fc4-0a19-4058-a7cc-69e214535950")
+		)
+		(pin "1"
+			(uuid "3971dccd-3eff-4def-aada-c534be99a11f")
+		)
+		(pin "4"
+			(uuid "87fac828-7f07-44bb-a538-3f599df06bec")
+		)
+		(pin "2"
+			(uuid "d7920b23-b831-4f6c-8a46-7d6a91123fde")
+		)
+		(pin "3"
+			(uuid "776ba536-c090-4eb4-a6cf-480f8b79fb02")
+		)
 		(instances
 			(project ""
 				(path "/8b7b9457-2a92-4e87-8d6b-6a422e047b1a"
@@ -10109,7 +10982,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 40.64 39.37 0)
 			(effects
 				(font
@@ -10440,6 +11313,71 @@
 		)
 	)
 	(symbol
+		(lib_id "Mechanical:MountingHole")
+		(at 265.43 133.35 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "b1675a75-da3e-44a7-8ac4-376fa38ed543")
+		(property "Reference" "H1"
+			(at 267.97 132.0799 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "MountingHole"
+			(at 267.97 134.6199 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3_ISO7380"
+			(at 265.43 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 265.43 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Mounting Hole without connection"
+			(at 265.43 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project ""
+				(path "/8b7b9457-2a92-4e87-8d6b-6a422e047b1a"
+					(reference "H1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:+3V3")
 		(at 115.57 116.84 0)
 		(unit 1)
@@ -10706,6 +11644,71 @@
 			(project "nand-flash-eval"
 				(path "/8b7b9457-2a92-4e87-8d6b-6a422e047b1a"
 					(reference "C4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Mechanical:MountingHole")
+		(at 265.43 143.51 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "df83eee8-fdd2-4ba5-9810-3157c3dc94f8")
+		(property "Reference" "H3"
+			(at 267.97 142.2399 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "MountingHole"
+			(at 267.97 144.7799 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3_ISO7380"
+			(at 265.43 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 265.43 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Mounting Hole without connection"
+			(at 265.43 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "nand-flash-eval"
+				(path "/8b7b9457-2a92-4e87-8d6b-6a422e047b1a"
+					(reference "H3")
 					(unit 1)
 				)
 			)
@@ -10989,6 +11992,71 @@
 			(project "nand-flash-eval"
 				(path "/8b7b9457-2a92-4e87-8d6b-6a422e047b1a"
 					(reference "#FLG02")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Mechanical:MountingHole")
+		(at 265.43 138.43 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "f775dae2-5671-4d22-ad8e-65be8238cba7")
+		(property "Reference" "H2"
+			(at 267.97 137.1599 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "MountingHole"
+			(at 267.97 139.6999 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3_ISO7380"
+			(at 265.43 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 265.43 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Mounting Hole without connection"
+			(at 265.43 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "nand-flash-eval"
+				(path "/8b7b9457-2a92-4e87-8d6b-6a422e047b1a"
+					(reference "H2")
 					(unit 1)
 				)
 			)
